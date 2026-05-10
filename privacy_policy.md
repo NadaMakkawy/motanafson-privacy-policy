@@ -91,6 +91,16 @@ Parents or guardians who believe their child has provided personal information m
 
 ---
 
+## Account and Data Deletion
+
+Users can request deletion of their account and associated data through the following form:
+
+https://forms.gle/AdUCvWz2nULNTWqT9
+
+Upon receiving a valid request, we will process account and data deletion within a reasonable period, unless retention is required for legal or security purposes.
+
+---
+
 ## Changes to This Privacy Policy
 
 This Privacy Policy may be updated from time to time.
